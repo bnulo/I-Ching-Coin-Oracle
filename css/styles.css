@@ -240,8 +240,9 @@ sup {
 }
 /* href */
 a {
-  color: rgba(0, 0, 0, 0.5);
+  color: rgba(0, 0, 0, 1);
   text-decoration: underline;
+  font-weight: 300;
 }
 a:hover {
   color: rgba(0, 0, 0, 0.7);
